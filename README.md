@@ -1,4 +1,4 @@
-Hey there! 👋 I’m Keen, a Google-certified entry-level cybersecurity analyst passionate about keeping YOUR data safe! and outsmarting cyber threats of course.
+Hey there! I’m Keen, a Google-certified entry-level cybersecurity analyst passionate about keeping YOUR data safe! and outsmarting cyber threats of course.
 
 This portfolio is a collection of my projects, learning experiments, and hands-on work demonstrating my skills in cybersecurity fundamentals, threat analysis, risk management, and more.
 
@@ -42,7 +42,7 @@ Reach out if you want to collaborate, mentor, or offer advice
 
 Suggest improvements or new areas for me to explore
 
-Thanks for stopping by — I’m excited to connect and keep learning! 🚀
+Thanks for stopping by — I’m excited to connect and keep learning!
 
 Ahmed Haytham (Keen)
 Google Certified Cybersecurity Analyst
